@@ -1,0 +1,4 @@
+Use Nvidia's compiler (nvcc).
+This is located in /usr/local/cuda/bin/nvcc.
+
+Can add to path...
